@@ -1,0 +1,59 @@
+body {
+    background-color: #ECF2FF;
+
+}
+hr {
+    border-color: #000000;
+    border-style: none none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+    
+}
+
+a {
+color: red;
+}
+h1{
+    color: black;
+    text-shadow: 4px 4px 10px red;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2{
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 4px 4px 10px red;
+}
+h3{
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 4px 4px 10px red;
+}
+p{
+    text-align: justify;
+    letter-spacing: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .table1 tr:hover {background-color: rgb(214, 91, 42);}
+  li {
+    display: inline;
+    padding: 5px;
+
+  }
+  #profile
+  {
+    background-color: grey;
+    
+  }
+  
